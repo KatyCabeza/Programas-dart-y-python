@@ -1,1 +1,1 @@
-![Texto alternativo](ruta/de/la/imagen.jpg)
+![programa en hoja de papel](https://i.postimg.cc/LXs8j3TY/IMG-20260223-110607-908.jpg)
