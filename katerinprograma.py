@@ -1,0 +1,13 @@
+print("Ingrese su primer nombre")
+Nombre = input()
+print("Ingrese su segundo nombre")
+Nombre2 = input()
+print("Ingrese su primer apellido")
+Ape = input()
+print("Ingrese su segundo apellido")
+Ape2 = input()
+print("Ingrese su edad")
+Edad = input()
+print("Ingrese su año de nacimiento")
+Año = input()
+
